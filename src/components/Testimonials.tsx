@@ -1,7 +1,7 @@
 import { Quote } from "lucide-react";
-import amandaFoto from "@/assets/amanda-campos.png";
-import robertoFoto from "@/assets/roberto-pereira.png";
-import marcelaFoto from "@/assets/marcela-ribeiro.png";
+import mariaFoto from "@/assets/maria-antunes.png";
+import fabricioFoto from "@/assets/fabricio-guedes.png";
+import thamirysFoto from "@/assets/thamirys-dias.png";
 import { useState, useEffect } from "react";
 
 const testimonials = [
@@ -9,25 +9,25 @@ const testimonials = [
     id: 1,
     quote:
       "Atuar em hospital exige um preparo muito específico. A Pós me deu a segurança clínica necessária para atender pacientes complexos e integrar a equipe multidisciplinar com confiança.",
-    name: "Amanda Campos",
+    name: "Thamirys Dias",
     course: "Odontologia Hospitalar",
-    photo: amandaFoto,
+    photo: thamirysFoto,
   },
   {
     id: 2,
     quote:
       "Conteúdo atualizado com os frameworks mais usados no mercado. Consegui implementar melhorias nos processos de TI da minha empresa logo nos primeiros meses e o reconhecimento veio rápido.",
-    name: "Roberto Pereira",
+    name: "Fabrício Guedes",
     course: "Governança em Tecnologia da Informação",
-    photo: robertoFoto,
+    photo: fabricioFoto,
   },
   {
     id: 3,
     quote:
       "As ferramentas de análise financeira que aprendi elevaram o nível do meu trabalho. Hoje tenho embasamento técnico para participar de decisões estratégicas e isso acelerou meu crescimento.",
-    name: "Marcela Ribeiro",
+    name: "Maria Antunes",
     course: "Finanças Corporativas",
-    photo: marcelaFoto,
+    photo: mariaFoto,
   },
 ];
 
