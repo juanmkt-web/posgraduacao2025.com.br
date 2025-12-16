@@ -51,9 +51,9 @@ export default {
           foreground: "hsl(var(--card-foreground))",
         },
         gradient: {
-          cyan: "hsl(var(--gradient-cyan))",
-          purple: "hsl(var(--gradient-purple))",
-          blue: "hsl(var(--gradient-blue))",
+          start: "hsl(var(--gradient-start))",
+          mid: "hsl(var(--gradient-mid))",
+          end: "hsl(var(--gradient-end))",
         },
         "cyan-light": {
           DEFAULT: "hsl(var(--cyan-light))",
