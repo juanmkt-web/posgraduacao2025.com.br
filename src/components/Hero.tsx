@@ -27,7 +27,7 @@ const Hero = () => {
                 textShadow: "2px 2px 8px rgba(0, 0, 0, 0.2)",
               }}
             >
-              A OPORTUNIDADE REAL<span className="text-accent"> DE MUDAR</span> A SUA CARREIRA.
+              A MELHOR OPORTUNIDADE <span className="text-accent"> DE MUDAR</span> A SUA CARREIRA.
             </h1>
 
             <p className="text-base sm:text-xl text-white/90 leading-relaxed mb-6 sm:mb-8">
