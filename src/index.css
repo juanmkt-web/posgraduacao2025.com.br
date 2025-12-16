@@ -47,12 +47,12 @@ All colors MUST be HSL.
 
     --radius: 0.75rem;
     
-    /* Gradient colors - Blue and Orange palette */
-    --gradient-start: 220 85% 45%;
-    --gradient-mid: 210 90% 55%;
-    --gradient-end: 24 95% 58%;
-    --gradient-light-blue: 205 90% 60%;
-    --gradient-deep-blue: 225 80% 35%;
+    /* Gradient colors - Blue tones only */
+    --gradient-start: 220 90% 50%;
+    --gradient-mid: 200 95% 55%;
+    --gradient-end: 195 100% 45%;
+    --gradient-light-blue: 190 95% 60%;
+    --gradient-deep-blue: 230 85% 40%;
     
     /* Shadows */
     --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
