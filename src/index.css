@@ -35,7 +35,7 @@ All colors MUST be HSL.
     --muted-foreground: 218 20% 40%;
 
     /* CTA Navy Blue accent */
-    --accent: 220 80% 25%;
+    --accent: 220 70% 45%;
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84% 60%;
@@ -96,7 +96,7 @@ All colors MUST be HSL.
     --muted: 218 30% 15%;
     --muted-foreground: 210 15% 70%;
 
-    --accent: 220 80% 35%;
+    --accent: 220 70% 50%;
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 63% 31%;
