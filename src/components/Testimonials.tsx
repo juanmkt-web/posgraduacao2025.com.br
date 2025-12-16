@@ -8,7 +8,7 @@ const testimonials = [
   {
     id: 1,
     quote:
-      "Atuar em hospital exige um preparo muito específico. A Pós me deu a segurança clínica necessária para atender pacientes complexos e integrar a equipe multidisciplinar com confiança.",
+      "O ambiente hospitalar não permite erros. A especialização me deu a bagagem técnica para realizar procedimentos em pacientes de alta complexidade com total segurança e humanização",
     name: "Thamirys Dias",
     course: "Odontologia Hospitalar",
     photo: thamirysFoto,
@@ -16,17 +16,17 @@ const testimonials = [
   {
     id: 2,
     quote:
-      "Conteúdo atualizado com os frameworks mais usados no mercado. Consegui implementar melhorias nos processos de TI da minha empresa logo nos primeiros meses e o reconhecimento veio rápido.",
+      "Hoje, dados são o novo petróleo. A Pós me ensinou a transformar números em inteligência de negócio. Apliquei modelos preditivos na empresa e os resultados foram imediatos.",
     name: "Fabrício Guedes",
-    course: "Governança em Tecnologia da Informação",
+    course: "Ciência de Dados e Inteligência Artificial",
     photo: fabricioFoto,
   },
   {
     id: 3,
     quote:
-      "As ferramentas de análise financeira que aprendi elevaram o nível do meu trabalho. Hoje tenho embasamento técnico para participar de decisões estratégicas e isso acelerou meu crescimento.",
+      "Com a alta da pauta ESG, as empresas buscam segurança jurídica. A Pós me deu o domínio da legislação ambiental necessário para prestar consultorias de alto nível e evitar riscos legais.",
     name: "Maria Antunes",
-    course: "Finanças Corporativas",
+    course: "Direito Ambiental e Sustentabilidade",
     photo: mariaFoto,
   },
 ];
