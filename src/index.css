@@ -34,8 +34,8 @@ All colors MUST be HSL.
     --muted: 210 20% 96%;
     --muted-foreground: 218 20% 40%;
 
-    /* CTA Coral/Orange warm */
-    --accent: 24 95% 58%;
+    /* CTA Cyan/Turquoise accent */
+    --accent: 185 90% 45%;
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 84% 60%;
@@ -96,7 +96,7 @@ All colors MUST be HSL.
     --muted: 218 30% 15%;
     --muted-foreground: 210 15% 70%;
 
-    --accent: 24 95% 58%;
+    --accent: 185 90% 45%;
     --accent-foreground: 0 0% 100%;
 
     --destructive: 0 63% 31%;
