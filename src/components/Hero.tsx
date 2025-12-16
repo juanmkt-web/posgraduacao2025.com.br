@@ -21,7 +21,12 @@ const Hero = () => {
       <div className="container mx-auto px-4 py-6 md:py-12 relative z-10">
         <div className="grid lg:grid-cols-2 gap-12 items-center mb-12">
           <div className="text-white animate-fade-in">
-            <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold mb-4 sm:mb-6 leading-tight">
+            <h1
+              className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold mb-4 sm:mb-6 leading-tight"
+              style={{
+                textShadow: "2px 2px 8px rgba(0, 0, 0, 0.2)",
+              }}
+            >
               ASSUMA O CONTROLE TOTAL<span className="text-accent"> DO SEU FUTURO</span> NA SUA CARREIRA.
             </h1>
 
