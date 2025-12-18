@@ -116,7 +116,7 @@ const Hero = () => {
                       />
                     </svg>
                   </div>
-                  <span>Matrícula grátis</span>
+                  <span>Pós-Graduação 100% EAD</span>
                 </div>
               </div>
             </div>
