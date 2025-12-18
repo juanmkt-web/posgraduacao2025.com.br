@@ -60,7 +60,7 @@ const CTA = () => {
           <div className="flex flex-col gap-4 md:gap-8 items-center mb-4 md:mb-8">
             <div className="text-white text-center">
               <h2 className="text-xl md:text-3xl lg:text-5xl font-bold mb-3 md:mb-6">
-                BLACK FRIDAY FASUL:
+                PROMOÇÃO POR TEMPO LIMITADO:
                 <br />
                 COMPRE UMA PÓS E LEVE <span className="text-accent">+3 GRÁTIS</span>.
               </h2>
