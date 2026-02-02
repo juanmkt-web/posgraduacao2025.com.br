@@ -76,8 +76,8 @@ const Hero = () => {
               </div>
 
               <div className="text-center mb-4 sm:mb-6">
-                <p className="text-muted-foreground text-xs sm:text-sm mb-2">A partir de 12x de</p>
-                <p className="text-4xl sm:text-5xl md:text-6xl font-extrabold text-primary">R$66</p>
+                <p className="text-muted-foreground text-xs sm:text-sm mb-2">A partir de 18x de</p>
+                <p className="text-4xl sm:text-5xl md:text-6xl font-extrabold text-primary">R$86</p>
                 <p className="text-muted-foreground text-xs sm:text-sm mt-1">mensais*</p>
               </div>
 
